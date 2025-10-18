@@ -1,7 +1,7 @@
 # OpenCore-MAG-B460M-MORTAR-i5-10500-RX-5700XT
 微星B460M 迫击炮 ，i5-10500，RX 6600XT 8G 黑苹果macos 26 Tahoe。
 
-⚠️** config.plist随机生成了三码，仅供调试仍需自行替换三码。**
+** ⚠️config.plist随机生成了三码，仅供调试仍需自行替换三码。**
 
 ### 更新
 - 2025/10/18 基于OpenCore 1.0.5，macOS Tahoe 26.0
